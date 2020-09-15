@@ -1,9 +1,11 @@
 # spring-boot-cloud-streams-kafka-streams-example
 
 ### Description
-Base example with spring cloud streams using kafka 
+Basic hello world example with spring cloud streams using kafka 
 
 Run the application from the command line using the Spring Boot Maven plugin:
+
+### How To run it
 
 ``` 
 mvn spring-boot:run
